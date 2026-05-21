@@ -140,4 +140,3 @@ Below is the structured roadmap for this workspace as you progress from Linux ba
 > **Best Practice for Learning**: Always try to run commands manually in your terminal before automating them. Use `man <command>` or `<command> --help` to read detailed descriptions of any flags you do not understand!
 
 ---
-*Happy Command Line Journey! Keep hacking, automating, and building!* 🐧☁️
